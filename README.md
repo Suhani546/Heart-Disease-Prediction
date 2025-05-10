@@ -2,6 +2,7 @@ Heart Disease Prediction 🫀
 
 This project uses a Logistic Regression model to predict whether a person is likely to have heart disease based on various medical parameters. It includes data preprocessing, model training, evaluation, and a prediction interface for single inputs.
 
+
 ✅ Features
 
 Logistic Regression model
@@ -13,6 +14,7 @@ Handles single patient input for real-time prediction
 Warning suppression for clean output
 
 Predicts: “The Person has Heart Disease” or “The Person does not have Heart Disease”
+
 
 📊 Input Features
 
@@ -43,6 +45,8 @@ slope	Slope of peak exercise ST segment
 ca	Number of major vessels (0–3)
 
 thal	Thalassemia (1 = normal; 2 = fixed defect; 3 = reversible defect)
+
+
 
 🛠 How to Run
 Clone this repo or open the .ipynb in Jupyter/Colab.
